@@ -1,0 +1,58 @@
+body {
+    padding: 10px;
+    background-color: black;
+}
+
+#btn {
+    margin-top: 3px;
+    font-size: small;
+    padding: 2px;
+    background-color: black;
+    border: none;
+    border-radius: 0px;
+    outline: none;
+}
+
+#btn:hover {
+    font-weight: bold;
+}
+
+#add {
+    margin-top: 3px;
+    font-size: small;
+    padding: 2px;
+    background-color: black;
+    border: none;
+    border-radius: 0px;
+    outline: none;
+}
+
+#add:hover {
+    font-weight: bold;
+}
+
+input {
+    line-height: 0.8rem;
+    float: left;
+    margin-right: 10px;
+    font-size: small;
+    padding: 3px;
+    width: 170px;
+}
+
+i {
+    color: white;
+}
+
+i:hover {
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+#note {
+    font-size: x-small;
+    margin-top: 7px;
+    margin-bottom: 3px;
+    color: whitesmoke;
+}
